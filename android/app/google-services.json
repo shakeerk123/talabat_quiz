@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298998709480",
+    "project_id": "talabatquiz",
+    "storage_bucket": "talabatquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298998709480:android:6c0c30f0d0d6981f771d5d",
+        "android_client_info": {
+          "package_name": "com.example.talabat_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJFf1d_bfNPN1EBVPJNjpeLqMmHR8Pq4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
